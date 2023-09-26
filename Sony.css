@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.topo{
+    background-color: red;
+    width: 100;
+    text-align: center;
+
+}
+
+.links{
+    border: 20px red solid;
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+    justify-content: center;
+}
+
+.links a{
+    margin: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+
+.area{
+    padding: 20px 0 20px 600px;
+    margin: 20px;
+}
+
+
+.home-imagem{
+    width: 100%;
+    border: 30px brown solid;
+    padding: ;
+    box-sizing: border-box;
+}
+
+.img-home{
+    border: 15px brown solid;
+}
